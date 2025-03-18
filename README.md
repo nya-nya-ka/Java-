@@ -7,18 +7,18 @@
 - プロジェクトフォルダ
   - src
     - デフォルト・パッケージ
-      _ AudioPlayer.java
-      _ InstructionScreen.java
-      _ Main.java
-      _ StartScreen.java
-      _ TypingGame.java
-      _ WordGenerator.java
-    _ 1.wav
-    _ 2.wav
-    _ 3.wav
-    _ PC.jpg
-    _ PC4.jpg
-    _ PC9.jpg
-    _ type.wav
-    _ 決定.wav
-    _ 戻る.wav
+      - AudioPlayer.java
+      - InstructionScreen.java
+      - Main.java
+      - StartScreen.java
+      - TypingGame.java
+      - WordGenerator.java
+    - 1.wav
+    - 2.wav
+    - 3.wav
+    - PC.jpg
+    - PC4.jpg
+    - PC9.jpg
+    - type.wav
+    - 決定.wav
+    - 戻る.wav
