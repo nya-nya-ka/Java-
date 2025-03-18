@@ -5,8 +5,8 @@
 > [!NOTE]
 > Eclipseのプロジェクト上に、以下のようにファイルを配置してください
 - プロジェクトフォルダ
-  _ src
-    _ デフォルト・パッケージ
+  - src
+    - デフォルト・パッケージ
       _ AudioPlayer.java
       _ InstructionScreen.java
       _ Main.java
